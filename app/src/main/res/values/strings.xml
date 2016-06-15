@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">두더지잡기</string>
+    <string name="button_stop">일시정지</string>
+    <string name="start">시작</string>
+</resources>
